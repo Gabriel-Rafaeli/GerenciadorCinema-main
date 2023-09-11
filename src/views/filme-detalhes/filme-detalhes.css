@@ -1,0 +1,10 @@
+@import url("bootstrap/dist/css/bootstrap.min.css");
+@import url("bootstrap-icons/font/bootstrap-icons.min.css");
+
+body {
+    background: linear-gradient(135deg, #1A1A1A, #000000, #333333, #1A1A1A);
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  
+  
